@@ -14,3 +14,5 @@
   * draw.m,draw2绘图，如<img width="382" alt="image" src="https://github.com/user-attachments/assets/ffd1c3b2-eb9f-4644-8060-507b50378a2d" />
 * 数据来源于https://github.com/MiaHkin/UE_ADLdatabase
 * 运动动画部分展示了实际仿真效果
+* 由于本人精力和时间关系，代码中可修改数据文件来源以确保可以正常运行。具体文件为read_data.m等文件
+* 部分代码可能在上传过程中没有调试过，所以需要稍微修改下
